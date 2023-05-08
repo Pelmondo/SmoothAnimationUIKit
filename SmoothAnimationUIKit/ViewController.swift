@@ -31,7 +31,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         view.addSubview(slider)
         view.addSubview(rectView)
 
@@ -56,7 +56,6 @@ class ViewController: UIViewController {
             height: 42
         )
     }
-
 
     // MARK: - Private
 
